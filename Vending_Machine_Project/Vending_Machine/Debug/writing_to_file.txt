@@ -1,0 +1,29 @@
+
+			 Preços Loucos Supermarket!
+
+Adress: Oporto
+Wed Jul 27 10:21:17 2022
+
+Tax number: 234234234
+*****************************************************
+
+Item					 Qnt	 Price
+
+Eggs X12    			   5	  12.80€ 
+
+*****************************************************
+
+Basket:								   12.80€
+Discount:							    5.00€
+
+Total:								    7.80€
+You entered:						   10.00€
+Change:								    2.20€
+Delivered:							     Cash
+
+Your client account balance is:		    0.00€
+
+
+					Thank you!
+
+
